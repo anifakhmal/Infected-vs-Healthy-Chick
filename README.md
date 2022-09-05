@@ -1,5 +1,3 @@
 # Infected-vs-Healthy-chick
-Infected and healthy chicken image 
+This repo provides image dataset of healthy and infected chicken, collected from blog and website
 
-# Provide image data of healthy and infected chicken 
-Provide reference link for each image
