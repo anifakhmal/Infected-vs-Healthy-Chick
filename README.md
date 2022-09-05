@@ -1,3 +1,6 @@
 # Infected-vs-Healthy-chick
 Infected and healthy chicken image 
-Provide respiratory for image of data sources and reference
+
+Provide image data of healthy and infected chicken 
+
+Provide reference link for each image
